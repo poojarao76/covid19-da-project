@@ -79,4 +79,7 @@ My Power BI dashboard was the visual representation of the insights I had gather
 - **Line Chart Visuals**: To provide a detailed view, I used line charts to present global and India's total cases and total deaths, both on an annual and monthly basis. Additionally, I visualized global vaccinations by continent and year, as well as India's vaccinations by month and year.
 - **Map Visual**: A map visual was employed to offer a holistic view of the distribution of COVID-19 infections on a country-by-country basis.
 
+  ![image](https://github.com/poojarao76/covid19-da-project/assets/132984172/2f54b431-7d1e-4ff0-8ffa-9ae3b1ffa71e)
+  
+
 By seamlessly combining Python, SQL, and Power BI, I conducted a comprehensive analysis and visualization of COVID-19 data. This project allowed me to gain valuable insights into global and India-specific trends in cases, deaths, and vaccinations.
